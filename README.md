@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boby1204
 - 👀 I’m interested in problem solving and poetry writing.
-- 🌱 I’m currently learning DSA using JAVA
+- 🌱 I’m currently learning DSA using JAVA and working on Spring and Springboot
 - 💞️ I’m looking for Software developer roles and for collaboration on projects.
 - 📫 How to reach me kanyal182017@gmail.com
 
